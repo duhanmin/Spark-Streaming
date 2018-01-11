@@ -1,0 +1,2 @@
+# Spark-Streaming
+Spark Streaming实时解析flume和kafka传来的josn数据写入mysql
