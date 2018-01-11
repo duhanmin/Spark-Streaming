@@ -1,4 +1,4 @@
-# Spark-Streaming
+# Spark-Streaming简单小项目
 Spark Streaming实时解析flume和kafka传来的josn数据写入mysql<br />
 # 注意，以下文件不提供
 配置c3p0-config.xml链接，链接数据库<br />
